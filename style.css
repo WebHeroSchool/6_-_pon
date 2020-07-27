@@ -1,0 +1,37 @@
+.subtitle {
+	text-align: center;
+}
+.title {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: large;
+}
+.link {
+	color: black;
+}
+.text {
+	white-space: nowrap;
+}
+.caption {
+	text-transform: uppercase;
+	text-align: center;
+	color: yellow;
+	font-size: large;
+}
+.article__caption {
+	text-align: left;
+	background-color: #808080;
+	background-clip: content-box;
+}
+.article__text {
+	white-space: nowrap;
+	text-align: left;
+}
+.section__text {
+	white-space: nowrap;
+	tab-size: 20;
+}
+.footer {
+	text-align: start;
+	font-size: small;
+}
