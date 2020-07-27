@@ -1,36 +1,57 @@
 .subtitle {
 	text-align: center;
 }
+
 .title {
 	text-transform: uppercase;
 	text-align: center;
-	font-size: large;
+	font-size: 100px;
 }
+
 .link {
 	color: black;
 }
+
 .text {
 	white-space: nowrap;
+	text-align: left;
+	font-size: 25px;
+	padding: 0px 0px 0px 40px;
 }
+
 .caption {
 	text-transform: uppercase;
 	text-align: center;
 	color: yellow;
-	font-size: large;
+	font-size: 50px;
 }
+
 .article__caption {
-	text-align: left;
+	text-align: center;
 	background-color: #808080;
-	background-clip: content-box;
+	width: 30px;
+	height: 30px;
 }
+
 .article__text {
 	white-space: nowrap;
 	text-align: left;
+	font-size: 20px;
+	float: none;
 }
+
+img {
+	float: right;
+	padding: 50px;
+}
+
 .section__text {
 	white-space: nowrap;
-	tab-size: 20;
+	font-size: 20px;
+	padding: 1px 1px 1px 400px;
+	float: none;
 }
+
 .footer {
 	text-align: start;
 	font-size: small;
